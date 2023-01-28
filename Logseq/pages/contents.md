@@ -1,0 +1,30 @@
+- 代码
+	- [[wuhu]]
+		- [[lane_det.DecodeInference(i, feature_maps);]]
+- eigen库
+	- [[maxCoeff函数]]
+	- [[eigen LinSpaced函数]]
+- 算法
+	- [[Softmax]]
+- opencv
+	- [[OpenCV Guide]]
+- Python
+	-
+- 书
+	- 《神经网络与深度学习》
+	- 《深度学习》
+	- 《白话机器学习的数学》
+	- [[《动手学深度学习》]]
+- CPP
+	- [[《modern-cpp》]]
+	- [[《Effective C++》]]
+	- [[《CSAPP》]]
+	- [[《STL源码剖析》]]
+-
+- ## 当前目标读完三本书： [[《modern-cpp》]]、 [[《CSAPP》]]、[[《动手学深度学习》]]
+  background-color:: pink
+- # 阅读计划：
+  background-color:: green
+	- 每本书每天各一小时。共三小时。
+	- 按每天八点到十一点三个小时中阅读两个小时，七点早起阅读至八点半一个半小时。
+	- 阅读时需要跟着做笔记、敲代码，可以在服务器上敲。

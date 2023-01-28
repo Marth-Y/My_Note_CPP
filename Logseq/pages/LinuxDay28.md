@@ -1,0 +1,2 @@
+- 11：13为什么不能select * ...group by
+- MYSQL_ROW本质上就是一个char**，拿一行数据，每一个数据都是一个char*。
