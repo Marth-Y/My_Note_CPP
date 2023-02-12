@@ -20,6 +20,13 @@
 	- [[《Effective C++》]]
 	- [[《CSAPP》]]
 	- [[《STL源码剖析》]]
+- cs231n
+	- [[名词收集]]
+	- [[one]]
+- 日语学习
+	- [[五十音]]
+	-
+-
 -
 - ## 当前目标读完三本书： [[《modern-cpp》]]、 [[《CSAPP》]]、[[《动手学深度学习》]]
   background-color:: pink
